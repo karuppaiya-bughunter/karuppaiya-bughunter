@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Karuppaiya  
 
-<!--
-**karuppaiya-bughunter/karuppaiya-bughunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring **Software Tester (Fresher)**  
+🔍 Passionate about Quality Assurance, Bug Hunting & UI/UX Design  
+🚀 Currently working as an Intern | Learning & Growing in QA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills  
+
+- **Testing:** Manual Testing, Test Case Writing, Bug Reporting  
+- **Tools:** JIRA, Bugzilla, TestLink  
+- **Automation Basics:** Selenium WebDriver (Java)  
+- **Concepts:** SDLC, STLC, Defect Life Cycle  
+- **Databases:** MySQL (Basics)  
+- **UI/UX Design:** Completed Figma Course | Wireframing & Prototyping  
+
+---
+
+## 🌱 Current Focus  
+- Improving my **Manual & Automation Testing** skills  
+- Exploring **UI/UX Design** to enhance testing with user perspective  
+- Contributing to **QA-related projects** on GitHub  
+- Preparing for a **Software Tester / QA Engineer** role  
